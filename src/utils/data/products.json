@@ -1,0 +1,189 @@
+{
+	"list": [
+		{
+			"id": 1,
+			"brand": "Puma",
+			"model": "MAPM RS-Cube",
+			"description":{
+				"material": {
+					"principal": "tissu",
+					"code": 21,
+					"infos":"cuir & tissu"
+				},
+				"colors":{
+					"principal": "vert",
+					"secondary": ["noire", "blanc", "gris"]
+				},
+				"text": ""
+			},
+			"price": {
+				"current": "119€",
+				"offer": null
+			},
+			"genre": "men",
+			"size": [39, 40, 41, 42, 43, 44, 45],
+			"customerInfos": {
+				"isNew": true,
+				"isBestSale": null,
+				"isExclusivity": null
+			},
+			"stock": {
+				"39": 12,
+				"40": 0,
+				"41": 8,
+				"42": 10,
+				"43": 0,
+				"44": 7,
+				"45": 3
+			},
+			"images": {
+				"cover": {
+					"path": {
+						"small": "/model1.global.jpg",
+						"large": "/modal1.focus.webp"
+					},
+				"galery":["/model1.1-focus.webp", "/model1.2-focus.webp", "/model1.3-focus.webp"]
+				}
+			}
+		},
+		{
+			"id": 2,
+			"brand": "Fila",
+			"model": "Orbit Zeppa CB",
+			"description":{
+				"material":{ 
+					"principal": "cuir",
+					"code": 24,
+					"infos": "cuir & velours"},
+				"colors":{
+					"principal": "blanc",
+					"secondary": ["jaune", "gris", "vert"]
+				},
+				"text": ""
+			},
+			"price": {
+				"current": "80€",
+				"offer": "50€"
+			},
+			"size": [36, 37, 38, 39, 40, 41, 42],
+			"customerInfos": {
+				"isNew": null,
+				"isBestSale": null,
+				"isExclusivity": null,
+				"isOffer": true
+			},
+			"genre": "women",
+			"stock": {
+				"36": 0,
+				"37": 5,
+				"38": 8,
+				"39": 10,
+				"40": 0,
+				"41": 7,
+				"42": 3
+			},
+			"images": {
+				"cover": {
+					"path": {
+						"small": "/model2.global.jpg",
+						"large": "/modal2.focus.webp"
+					},
+				"galery":["/model2.1-focus.webp", "/model2.2-focus.webp", "/model2.3-focus.webp"]
+				}
+			}
+		},
+		{
+			"id": 3,
+			"brand": "Tommy Jeans",
+			"model": "Degrade Flexi",
+			"description":{
+				"material": {
+					"principal": {"code": 1, "name": "tissu"},
+					"secondary": {"code": 13, "name":"tissu & velours"}
+				},
+				"colors":{
+					"principal": "multi",
+					"secondary": ["pink", "yellow", "blue"]
+				},
+				"text": ""
+			},
+			"price": {
+				"current":"99,99€",
+				"offer": null
+			},
+			"size": [36, 37, 38, 39, 40, 41, 42],
+			"customerInfos": {
+				"isNew": null,
+				"isBestSale": true,
+				"isExclusivity": true,
+				"isOffer": null
+			},
+			"genre": "women",
+			"stock": {
+				"36": 10,
+				"37": 5,
+				"38": 0,
+				"39": 0,
+				"40": 0,
+				"41": 7,
+				"42": 3
+			},
+			"images": {
+				"cover": {
+					"path": {
+						"small": "/model3.global.jpg",
+						"large": "/modal3.focus.webp"
+					},
+				"galery":["/model3.1-focus.webp", "/model3.2-focus.webp", "/model3.3-focus.webp"]
+				}
+			}
+		},
+		{
+			"id": 4,
+			"brand": "New Balance",
+			"model": "CW997HBD",
+			"description":{
+				"material": {
+					"code": 24,
+					"infos":"tissu & velours"
+				},
+				"colors":{
+					"principal": "multi",
+					"secondary": ["pink", "yellow", "blue"]
+				},
+				"text": ""
+			},
+			"price": {
+				"current": "99,99€",
+				"offer": null
+			},
+			"size": [36, 37, 38, 39, 40, 41],
+			"customerInfos": {
+				"isNew": null,
+				"isBestSale": null,
+				"isExclusivity": null,
+				"isOffer": null
+			},
+			"genre": "men",
+			"stock": {
+				"36": 10,
+				"37": 5,
+				"38": 3,
+				"39": 8,
+				"40": 0,
+				"41": 7,
+				"42": 3
+			},
+			"images": {
+				"cover": {
+					"path": {
+						"small": "/model4.global.jpg",
+						"large": "/modal4.focus.webp"
+					},
+				"galery":["/model4.1-focus.webp", "/model4.2-focus.webp", "/model4.3-focus.webp"]
+				}
+			}
+		}
+	],
+	"qty": 1
+}
